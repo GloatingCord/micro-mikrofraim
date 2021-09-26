@@ -1,0 +1,11 @@
+{
+    "require": {
+        "twig/twig": "^3.3",
+        "j4mie/idiorm": "^1.5.7",
+        "symfony/var-dumper": "^5.3.7",
+        "filp/whoops": "^2.14.3"
+    },
+    "require-dev": {
+        "phpstan/phpstan-strict-rules": "^0.12.9"
+    }
+}
